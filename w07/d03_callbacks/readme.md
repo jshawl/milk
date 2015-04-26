@@ -21,6 +21,7 @@ var depositButton = document.getElementById('atm-deposit');
 depositButton.addEventListener('click', function(){
   
 });
+```
 
 ## Sync vs Async
 
